@@ -77,11 +77,18 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2016 - PHENIX - Dahl - [A multiple-phenotype imputation method for genetic studies](https://www.nature.com/articles/ng.3513)
 
-### Finemapping and colocalization
+### Finemapping 
 
-- 2014 - coloc - Giambartolomei - [Bayesian Test for Colocalisation between Pairs of Genetic Association Studies Using Summary Statistics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383)
 - 2014 - GPA - Chung - [GPA: A Statistical Approach to Prioritizing GWAS Results by Integrating Pleiotropy and Annotation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004787)
 - 2017 - fastPAINTOR - Kichaev - [Improved methods for multi-trait fine mapping of pleiotropic risk loci](https://academic.oup.com/bioinformatics/article/33/2/248/2525720)
+- 2021 - mashr - Urbut - [Flexible statistical methods for estimating and testing effects in genomic studies with multiple conditions]{https://www.nature.com/articles/s41588-018-0268-8}
+
+### Colocalization
+
+- 2014 - coloc - Giambartolomei - [Bayesian Test for Colocalisation between Pairs of Genetic Association Studies Using Summary Statistics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383)
+- 2018 - moloc - Giambartolomei - [A Bayesian framework for multiple trait colocalization from summary association statistics]{https://academic.oup.com/bioinformatics/article/34/15/2538/4944428}
+- 2021 - HyPrColoc - Foley - [A fast and efficient colocalization algorithm for identifying shared genetic risk factors across multiple traits]{https://www.nature.com/articles/s41467-020-20885-8}
+- 2021 - Wallace - COLOC/SuSiE - [A more accurate method for colocalisation analysis allowing for multiple causal variants]{https://www.biorxiv.org/content/10.1101/2021.02.23.432421v2}
 
 ### Rare variants
 

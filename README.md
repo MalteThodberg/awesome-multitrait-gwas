@@ -81,14 +81,14 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2014 - GPA - Chung - [GPA: A Statistical Approach to Prioritizing GWAS Results by Integrating Pleiotropy and Annotation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004787)
 - 2017 - fastPAINTOR - Kichaev - [Improved methods for multi-trait fine mapping of pleiotropic risk loci](https://academic.oup.com/bioinformatics/article/33/2/248/2525720)
-- 2021 - mashr - Urbut - [Flexible statistical methods for estimating and testing effects in genomic studies with multiple conditions]{https://www.nature.com/articles/s41588-018-0268-8}
+- 2021 - mashr - Urbut - [Flexible statistical methods for estimating and testing effects in genomic studies with multiple conditions](https://www.nature.com/articles/s41588-018-0268-8)
 
 ### Colocalization
 
 - 2014 - coloc - Giambartolomei - [Bayesian Test for Colocalisation between Pairs of Genetic Association Studies Using Summary Statistics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383)
-- 2018 - moloc - Giambartolomei - [A Bayesian framework for multiple trait colocalization from summary association statistics]{https://academic.oup.com/bioinformatics/article/34/15/2538/4944428}
-- 2021 - HyPrColoc - Foley - [A fast and efficient colocalization algorithm for identifying shared genetic risk factors across multiple traits]{https://www.nature.com/articles/s41467-020-20885-8}
-- 2021 - Wallace - COLOC/SuSiE - [A more accurate method for colocalisation analysis allowing for multiple causal variants]{https://www.biorxiv.org/content/10.1101/2021.02.23.432421v2}
+- 2018 - moloc - Giambartolomei - [A Bayesian framework for multiple trait colocalization from summary association statistics](https://academic.oup.com/bioinformatics/article/34/15/2538/4944428)
+- 2021 - HyPrColoc - Foley - [A fast and efficient colocalization algorithm for identifying shared genetic risk factors across multiple traits](https://www.nature.com/articles/s41467-020-20885-8)
+- 2021 - Wallace - COLOC/SuSiE - [A more accurate method for colocalisation analysis allowing for multiple causal variants](https://www.biorxiv.org/content/10.1101/2021.02.23.432421v2)
 
 ### Rare variants
 
@@ -115,6 +115,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2019 - Couvy-Duchesne - [A Fast Method for Estimating Statistical Power of Multivariate GWAS in Real Case Scenarios: Examples from the Field of Imaging Genetics](https://link.springer.com/article/10.1007%2Fs10519-018-9936-9)
 - 2019 - van Rheenen - [Genetic correlations of polygenic disease traits: from theory to practice](https://www.nature.com/articles/s41576-019-0137-z)
 - 2019 - Ray - [Effect of non-normality and low count variants on cross-phenotype association tests in GWAS](https://www.nature.com/articles/s41431-019-0514-2)
+- 2019 - Vroom - [The more the merrier? Multivariate approaches to genome-wide association analysis](https://www.biorxiv.org/content/10.1101/610287v3)
+
 
 ## Unsorted
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477978/

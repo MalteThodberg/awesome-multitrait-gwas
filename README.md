@@ -22,6 +22,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2015 - PLINK2 - Chang - [Second-generation PLINK: rising to the challenge of larger and richer datasets](https://academic.oup.com/gigascience/article/4/1/s13742-015-0047-8/2707533)
 - 2016 - HASE - Roshchupkin - [HASE: Framework for efficient high-dimensional association analyses](https://www.nature.com/articles/srep36076)
 - 2017 - BGENIE - Bycroft - [The UK Biobank resource with deep phenotyping and genomic data](https://www.nature.com/articles/s41586-018-0579-z)
+- 2019 - fastGWA - Jiang - [A resource-efficient tool for mixed model association analysis of large-scale data](https://www.nature.com/articles/s41588-019-0530-8)
+- 2021 - REGENIE - Mbatchou - [Computationally efficient whole-genome regression for quantitative and binary traits](https://www.nature.com/articles/s41588-021-00870-7)
 
 ### Direct tests
 

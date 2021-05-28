@@ -36,7 +36,9 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2013 - MV-BIMBAM - Stephens - [A Unified Framework for Association Analysis with Multiple Related Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065245)
 - 2014 - mvLMM-GEMMA - Zhou - [Efficient Algorithms for Multivariate Linear Mixed Models in Genome-wide Association Studies](https://www.nature.com/articles/nmeth.2848)
 - 2015 - Ray - USAT - [USAT: A Unified Score‐Based Association Test for Multiple Phenotype‐Genotype Analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.21937)
+- 2015 - ACL - Qu - [Statistical Methods for Association Tests of Multiple Continuous Traits in Genome-Wide Association Studies](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ahg.12110)
 - 2018 - SBAT - Elliot - [Genome-wide association studies of brain imaging phenotypes in UK Biobank](https://www.nature.com/articles/s41586-018-0571-7)
+- 2018 - Q, T, T' - Wu - [Fast and Accurate Genome-Wide Association Test of Multiple Quantitative Traits](https://www.hindawi.com/journals/cmmm/2018/2564531/)
 
 ### Indirect tests
 
@@ -55,11 +57,17 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2015 - S<sub>Hom</sub> / S<sub>Het</sub> - Zhu - [Meta-analysis of Correlated Traits via Summary Statistics from GWASs with an Application in Hypertension](https://www.sciencedirect.com/science/article/pii/S0002929714004777)
 - 2015 - MGAS - van der Sluis - [MGAS: a powerful tool for multivariate gene-based genome-wide association analysis](https://academic.oup.com/bioinformatics/article/31/7/1007/181296)
 - 2016 - metaCCA - Cichonska - [metaCCA: summary statistics-based multivariate meta-analysis of genome-wide association studies using canonical correlation analysis](https://academic.oup.com/bioinformatics/article/32/13/1981/1742730)
+- 2017 - metaUSAT - Ray - [Methods for meta-analysis of multiple traits using GWAS summary statistics](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22105)
 - 2018 - MTAG - Turley - [Multi-trait analysis of genome-wide association summary statistics using MTAG](https://www.nature.com/articles/s41588-017-0009-4)
+- 2018 - Qi - HIPO - [Heritability informed power optimization (HIPO) leads to enhanced detection of genetic associations across multiple traits](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007549)
 - 2019 - metaPhat - Lin - [MetaPhat: Detecting and decomposing multivariate associations from univariate genomewide association statistics](https://www.biorxiv.org/content/10.1101/661421v1)
 - 2019 - meta-MultiSKAT - Dutta - [Meta‐MultiSKAT: Multiple phenotype meta‐analysis for region‐based association test](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22248)
-- 2019 - MTAR - Guo - [Integrate multiple traits to detect novel trait–gene association using GWAS summary data with an adaptive test approach](https://academic.oup.com/bioinformatics/article/35/13/2251/5201342)
+- 2018 - Adaptive PC Test & Z-scores test & modified metaUSAT- Guo - [Integrate multiple traits to detect novel trait–gene association using GWAS summary data with an adaptive test approach](https://academic.oup.com/bioinformatics/article/35/13/2251/5201342)
 - 2019 - aMAT - Wu - [Multi-trait genome-wide analyses of the brain imaging phenotypes in UK Biobank](https://www.biorxiv.org/content/10.1101/758326v1)
+- 2019 - Adaptive Pleiotropy Test - Masotti - [Pleiotropy informed adaptive association test of multiple traits using genome-wide association study summary data](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13076)
+- 2020 - JASS - Julienne - [JASS: command line and web interface for the joint analysis of GWAS results](https://academic.oup.com/nargab/article/2/1/lqaa003/5715214)
+- 2021 - Liu - GBJ and GHC tests - [An Omnibus Test for Detecting Multiple Phenotype Associations Based on GWAS Summary Level Data](https://www.frontiersin.org/articles/10.3389/fgene.2021.644419/full)
+
 
 ### Other tests
 

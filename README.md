@@ -15,6 +15,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - [Multivariate Analysis of Variance (MANOVA)](https://en.wikipedia.org/wiki/Multivariate_analysis_of_variance)
 - [Canonical Correlation Analysis (CCA)](https://en.wikipedia.org/wiki/Canonical_correlation)
+- [Meta analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
+- [Combination P-values](https://cran.r-project.org/web/packages/metap/index.html)
 
 ### Large number of univariate tests
 

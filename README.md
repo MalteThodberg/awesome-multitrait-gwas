@@ -109,6 +109,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2016 - GAMuT - Broadawy - [A Statistical Approach for Testing Cross-Phenotype Effects of Rare Variants](https://www.cell.com/ajhg/fulltext/S0002-9297(16)00052-5)
 - 2017 - DKAT - Zhan - [Powerful Genetic Association Analysis for Common or Rare Variants with High-Dimensional Structured Traits](https://www.genetics.org/content/206/4/1779.long)
 - 2018 - Multi-SKAT - Dutta - [Multi‐SKAT: General framework to test for rare‐variant association with multiple phenotypes](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22156)
+- 2020 - MTAR - Luo - [Multi-trait analysis of rare-variant association summary statistics using MTAR](https://www.nature.com/articles/s41467-020-16591-0)
 
 ## Case studies
 

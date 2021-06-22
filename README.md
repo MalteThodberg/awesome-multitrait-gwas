@@ -140,3 +140,6 @@ https://www.biorxiv.org/content/10.1101/758326v2.full.pdf
 https://www.nature.com/articles/s41467-018-05444-6
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738479/
 https://www.ncbi.nlm.nih.gov/pubmed/30239606
+
+UNITY: https://academic.oup.com/bioinformatics/article/34/13/i195/5045708?rss=1&itm_content=bioinformatics&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&itm_medium=sidebar
+https://academic.oup.com/bioinformatics/article/34/16/2788/4956013?itm_content=bioinformatics&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&itm_medium=sidebar 

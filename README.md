@@ -81,6 +81,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2015 - LD score regression - Bulik-Sullivan - [An atlas of genetic correlations across human diseases and traits](https://www.nature.com/articles/ng.3406)
 - 2015 - BOLT-REML - Loh - [Contrasting genetic architectures of schizophrenia and other complex diseases using fast variance-components analysis](https://www.nature.com/articles/ng.3431)
 - 2017 - GNOVA - Lu - [A Powerful Approach to Estimating Annotation-Stratified Genetic Covariance via GWAS Summary Statistics](https://www.sciencedirect.com/science/article/pii/S0002929717304536)
+- 2021 - LAVA - Werme - [LAVA: An integrated framework for local genetic correlation analysis](https://www.biorxiv.org/content/10.1101/2020.12.31.424652v2)
 
 ### Polygenicity
 

@@ -145,3 +145,24 @@ https://www.ncbi.nlm.nih.gov/pubmed/30239606
 UNITY: https://academic.oup.com/bioinformatics/article/34/13/i195/5045708?rss=1&itm_content=bioinformatics&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&itm_medium=sidebar
 https://academic.oup.com/bioinformatics/article/34/16/2788/4956013?itm_content=bioinformatics&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&itm_medium=sidebar 
 ccFDR: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636100/ 
+
+# Sumstat based
+2019  - Adaptive AZ - Integrate multiple traits to detect novel disease-gene association using GWAS summary data with an adaptive test approach
+Adaptive ET, minP, SZ, SZ2 - Pleiotropy informed adaptive association test of multiple traits using GWAS summary data.
+Adaptive PT - Principal component based adaptive association test of multiple traits using GWAS summary statistics.
+
+
+
+# Direct
+Fast and accurate genome-wide association test of multiple quantitative traits. 
+Statistical methods for association tests of multiple continuous traits in genome-wide association studies.
+
+
+
+# From references
+HIPO: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007549
+JASS: https://academic.oup.com/nargab/article/2/1/lqaa003/5715214
+metaUSAT: https://academic.oup.com/nargab/article/2/1/lqaa003/5715214
+jointsum/Plei: https://pubmed.ncbi.nlm.nih.gov/32275709/ & https://academic.oup.com/genetics/article/207/4/1285/5930701
+P_act: References from MTAR
+metap: https://cran.r-project.org/web/packages/metap/vignettes/compare.pdf

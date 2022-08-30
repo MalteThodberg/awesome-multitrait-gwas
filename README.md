@@ -143,10 +143,9 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ## Unsorted
 
-# From references
-HIPO: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007549
-JASS: https://academic.oup.com/nargab/article/2/1/lqaa003/5715214
-metaUSAT: https://academic.oup.com/nargab/article/2/1/lqaa003/5715214
-jointsum/Plei: https://pubmed.ncbi.nlm.nih.gov/32275709/ & https://academic.oup.com/genetics/article/207/4/1285/5930701
-P_act: References from MTAR
-metap: https://cran.r-project.org/web/packages/metap/vignettes/compare.pdf
+- HIPO: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007549
+- JASS: https://academic.oup.com/nargab/article/2/1/lqaa003/5715214
+- metaUSAT: https://academic.oup.com/nargab/article/2/1/lqaa003/5715214
+- jointsum/Plei: https://pubmed.ncbi.nlm.nih.gov/32275709/ & https://academic.oup.com/genetics/article/207/4/1285/5930701
+- P_act: References from MTAR
+- metap: https://cran.r-project.org/web/packages/metap/vignettes/compare.pdf

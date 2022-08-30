@@ -24,6 +24,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2015 - PLINK2 - Chang - [Second-generation PLINK: rising to the challenge of larger and richer datasets](https://academic.oup.com/gigascience/article/4/1/s13742-015-0047-8/2707533)
 - 2016 - HASE - Roshchupkin - [HASE: Framework for efficient high-dimensional association analyses](https://www.nature.com/articles/srep36076)
 - 2017 - BGENIE - Bycroft - [The UK Biobank resource with deep phenotyping and genomic data](https://www.nature.com/articles/s41586-018-0579-z)
+- 2018 - Ganjgahi - WLS-REML - [Fast and powerful genome wide association of dense genetic data with high dimensional imaging phenotypes](https://www.nature.com/articles/s41467-018-05444-6)
 - 2019 - fastGWA - Jiang - [A resource-efficient tool for mixed model association analysis of large-scale data](https://www.nature.com/articles/s41588-019-0530-8)
 - 2021 - REGENIE - Mbatchou - [Computationally efficient whole-genome regression for quantitative and binary traits](https://www.nature.com/articles/s41588-021-00870-7)
 
@@ -36,7 +37,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2013 - MV-BIMBAM - Stephens - [A Unified Framework for Association Analysis with Multiple Related Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065245)
 - 2014 - mvLMM-GEMMA - Zhou - [Efficient Algorithms for Multivariate Linear Mixed Models in Genome-wide Association Studies](https://www.nature.com/articles/nmeth.2848)
 - 2015 - Ray - USAT - [USAT: A Unified Score‐Based Association Test for Multiple Phenotype‐Genotype Analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.21937)
-- 2015 - ACL - Qu - [Statistical Methods for Association Tests of Multiple Continuous Traits in Genome-Wide Association Studies](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ahg.12110)
+- 2015 - ACL - Wu - [Statistical Methods for Association Tests of Multiple Continuous Traits in Genome-Wide Association Studies](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ahg.12110)
 - 2018 - SBAT - Elliot - [Genome-wide association studies of brain imaging phenotypes in UK Biobank](https://www.nature.com/articles/s41586-018-0571-7)
 - 2018 - Q, T, T' - Wu - [Fast and Accurate Genome-Wide Association Test of Multiple Quantitative Traits](https://www.hindawi.com/journals/cmmm/2018/2564531/)
 
@@ -60,6 +61,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2016 - metaCCA - Cichonska - [metaCCA: summary statistics-based multivariate meta-analysis of genome-wide association studies using canonical correlation analysis](https://academic.oup.com/bioinformatics/article/32/13/1981/1742730)
 - 2017 - metaUSAT - Ray - [Methods for meta-analysis of multiple traits using GWAS summary statistics](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22105)
 - 2018 - Qi - HIPO - [Heritability informed power optimization (HIPO) leads to enhanced detection of genetic associations across multiple traits](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007549)
+- 2018 - Guo - Adaptive PC test - [Principal component based adaptive association test of multiple traits using GWAS summary statistics](https://www.biorxiv.org/content/10.1101/269597v1.abstract)
 - 2019 - metaPhat - Lin - [MetaPhat: Detecting and decomposing multivariate associations from univariate genomewide association statistics](https://www.biorxiv.org/content/10.1101/661421v1)
 - 2019 - meta-MultiSKAT - Dutta - [Meta‐MultiSKAT: Multiple phenotype meta‐analysis for region‐based association test](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22248)
 - 2018 - Adaptive PC Test & Z-scores test & modified metaUSAT- Guo - [Integrate multiple traits to detect novel trait–gene association using GWAS summary data with an adaptive test approach](https://academic.oup.com/bioinformatics/article/35/13/2251/5201342)
@@ -73,7 +75,11 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2009 - CMV - Medland - [An integrated phenomic approach to multivariate allelic association](https://www.nature.com/articles/ejhg2009133)
 - 2012 - PSEA - Ried - [PSEA: Phenotype Set Enrichment Analysis—A New Method for Analysis of Multiple Phenotypes](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.21617)
+- 2013 - conditional FDR & conjunction FDR - Andreassen - [Improved Detection of Common Variants Associated with Schizophrenia and Bipolar Disorder Using Pleiotropy-Informed Conditional False Discovery Rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636100/)
+- 2016 - Hierachical error control - [Many Phenotypes Without Many False Discoveries: Error Controlling Strategies for Multitrait Association Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738479/)
+- 2018 - UNITY - Johnson - [A unifying framework for joint trait analysis under a non-infinitesimal model](https://academic.oup.com/bioinformatics/article/34/13/i195/5045708?rss=1&itm_content=bioinformatics&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&itm_medium=sidebar)
 - 2018 - MTAG - Turley - [Multi-trait analysis of genome-wide association summary statistics using MTAG](https://www.nature.com/articles/s41588-017-0009-4)
+- 2019 - MSATS - Guo - [Powerful and efficient SNP-set association tests across multiple phenotypes using GWAS summary data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477978/)
 
 ### Genetic correlation
 
@@ -122,6 +128,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2019 - Watanabe - [A global overview of pleiotropy and genetic architecture in complex traits](https://www.nature.com/articles/s41588-019-0481-0#Sec18)
 
 ## Benchmarks and reviews
+
 - 2010 - Minica - [Genetic Association in Multivariate Phenotypic Data: Power in Five Models](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/genetic-association-in-multivariate-phenotypic-data-power-in-five-models/A928605DBAE19EF371828BE6C77C11C0)
 - 2012 - Shriner - [Moving toward system genetics through multiple trait analysis in genome-wide association studies](https://www.frontiersin.org/articles/10.3389/fgene.2012.00001/full)
 - 2013 - Stephens - [A Unified Framework for Association Analysis with Multiple Related Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065245)
@@ -134,30 +141,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2019 - Ray - [Effect of non-normality and low count variants on cross-phenotype association tests in GWAS](https://www.nature.com/articles/s41431-019-0514-2)
 - 2019 - Vroom - [The more the merrier? Multivariate approaches to genome-wide association analysis](https://www.biorxiv.org/content/10.1101/610287v3)
 
-
 ## Unsorted
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477978/
-https://www.biorxiv.org/content/10.1101/758326v2.full.pdf
-https://www.nature.com/articles/s41467-018-05444-6
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738479/
-https://www.ncbi.nlm.nih.gov/pubmed/30239606
-
-UNITY: https://academic.oup.com/bioinformatics/article/34/13/i195/5045708?rss=1&itm_content=bioinformatics&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&itm_medium=sidebar
-https://academic.oup.com/bioinformatics/article/34/16/2788/4956013?itm_content=bioinformatics&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&itm_medium=sidebar 
-ccFDR: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636100/ 
-
-# Sumstat based
-2019  - Adaptive AZ - Integrate multiple traits to detect novel disease-gene association using GWAS summary data with an adaptive test approach
-Adaptive ET, minP, SZ, SZ2 - Pleiotropy informed adaptive association test of multiple traits using GWAS summary data.
-Adaptive PT - Principal component based adaptive association test of multiple traits using GWAS summary statistics.
-
-
-
-# Direct
-Fast and accurate genome-wide association test of multiple quantitative traits. 
-Statistical methods for association tests of multiple continuous traits in genome-wide association studies.
-
-
 
 # From references
 HIPO: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007549

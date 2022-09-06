@@ -69,7 +69,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2019 - Adaptive Pleiotropy Test - Masotti - [Pleiotropy informed adaptive association test of multiple traits using genome-wide association study summary data](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13076)
 - 2020 - JASS - Julienne - [JASS: command line and web interface for the joint analysis of GWAS results](https://academic.oup.com/nargab/article/2/1/lqaa003/5715214)
 - 2020 - MOSTest - van der Meer - [Understanding the genetic determinants of the brain with MOSTest](https://www.nature.com/articles/s41467-020-17368-1)
-- 2021 - Liu - GBJ and GHC tests - [An Omnibus Test for Detecting Multiple Phenotype Associations Based on GWAS Summary Level Data](https://www.frontiersin.org/articles/10.3389/fgene.2021.644419/full)
+- 2021 - Liu - OMNI - [An Omnibus Test for Detecting Multiple Phenotype Associations Based on GWAS Summary Level Data](https://www.frontiersin.org/articles/10.3389/fgene.2021.644419/full)
 
 ### Other tests
 
@@ -115,7 +115,11 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2016 - GAMuT - Broadawy - [A Statistical Approach for Testing Cross-Phenotype Effects of Rare Variants](https://www.cell.com/ajhg/fulltext/S0002-9297(16)00052-5)
 - 2017 - DKAT - Zhan - [Powerful Genetic Association Analysis for Common or Rare Variants with High-Dimensional Structured Traits](https://www.genetics.org/content/206/4/1779.long)
+- 2017 - GHC - Barnett - [The Generalized Higher Criticism for Testing SNP-Set Effects in Genetic Association Studies
+](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1192039)
+- 2017 - GBJ - Sun - [Genetic Variant Set-Based Tests Using the Generalized Berk–Jones Statistic With Application to a Genome-Wide Association Study of Breast Cancer](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1660170)
 - 2018 - Multi-SKAT - Dutta - [Multi‐SKAT: General framework to test for rare‐variant association with multiple phenotypes](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22156)
+- 2019 - ACAT - Liu - [ACAT: A Fast and Powerful p Value Combination Method for Rare-Variant Analysis in Sequencing Studies](https://www.sciencedirect.com/science/article/pii/S0002929719300023)
 - 2020 - MTAR - Luo - [Multi-trait analysis of rare-variant association summary statistics using MTAR](https://www.nature.com/articles/s41467-020-16591-0)
 
 ## Case studies

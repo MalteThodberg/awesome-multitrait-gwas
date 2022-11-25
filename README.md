@@ -153,3 +153,4 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - jointsum/Plei: https://pubmed.ncbi.nlm.nih.gov/32275709/ & https://academic.oup.com/genetics/article/207/4/1285/5930701
 - P_act: References from MTAR
 - metap: https://cran.r-project.org/web/packages/metap/vignettes/compare.pdf
+- GWAMA: https://www.nature.com/articles/s41467-022-34216-6#Sec16 

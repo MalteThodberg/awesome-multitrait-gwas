@@ -50,6 +50,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ### Meta-analysis tests
 
+- 2007 - P<sub>ACT</sub> (minP) - Coonely - [So Many Correlated Tests, So Little Time! Rapid Adjustment of P Values for Multiple Correlated Tests](https://www.sciencedirect.com/science/article/pii/S0002929707637665?via%3Dihub)
 - 2011 - PRIMe - Huang - [PRIMe: a method for characterization and evaluation of pleiotropic regions from multiple genome-wide association studies](https://academic.oup.com/bioinformatics/article/27/9/1201/242517)
 - 2012 - Extended O'Briens methods - Yang - [Analyze multivariate phenotypes in genetic association studies by combining univariate association tests](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.20497)
 - 2010 - METAL - Willer - [METAL: fast and efficient meta-analysis of genomewide association scans](https://academic.oup.com/bioinformatics/article/26/17/2190/198154)

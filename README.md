@@ -108,7 +108,9 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 ### Colocalization
 
 - 2014 - coloc - Giambartolomei - [Bayesian Test for Colocalisation between Pairs of Genetic Association Studies Using Summary Statistics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383)
+- 2016 - eCAVIAR - Hormozdiari - [Colocalization of GWAS and eQTL Signals Detects Target Genes](https://www.sciencedirect.com/science/article/pii/S0002929716304396?via%3Dihub)
 - 2018 - moloc - Giambartolomei - [A Bayesian framework for multiple trait colocalization from summary association statistics](https://academic.oup.com/bioinformatics/article/34/15/2538/4944428)
+- 2020 - PRIMO - Gleason - [Primo: integration of multiple GWAS and omics QTL summary statistics for elucidation of molecular mechanisms of trait-associated SNPs and detection of pleiotropy in complex traits](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02125-w)
 - 2021 - HyPrColoc - Foley - [A fast and efficient colocalization algorithm for identifying shared genetic risk factors across multiple traits](https://www.nature.com/articles/s41467-020-20885-8)
 - 2021 - Wallace - COLOC/SuSiE - [A more accurate method for colocalisation analysis allowing for multiple causal variants](https://www.biorxiv.org/content/10.1101/2021.02.23.432421v2)
 

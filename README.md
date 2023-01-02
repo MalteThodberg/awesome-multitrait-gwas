@@ -54,7 +54,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2011 - PRIMe - Huang - [PRIMe: a method for characterization and evaluation of pleiotropic regions from multiple genome-wide association studies](https://academic.oup.com/bioinformatics/article/27/9/1201/242517)
 - 2012 - Extended O'Briens methods - Yang - [Analyze multivariate phenotypes in genetic association studies by combining univariate association tests](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.20497)
 - 2010 - METAL - Willer - [METAL: fast and efficient meta-analysis of genomewide association scans](https://academic.oup.com/bioinformatics/article/26/17/2190/198154)
-- 2012 - Bhattacharjee - ASSET - [A subset-based approach improves power and interpretation for the combined analysis of genetic association studies of heterogeneous traits](https://www.sciencedirect.com/science/article/pii/S0002929712001590?via%3Dihub)
+- 2012 - ASSET - Bhattacharjee - [A subset-based approach improves power and interpretation for the combined analysis of genetic association studies of heterogeneous traits](https://www.sciencedirect.com/science/article/pii/S0002929712001590?via%3Dihub)
 - 2013 - TATES - van der Sluis - [TATES: Efficient Multivariate Genotype-Phenotype Analysis for Genome-Wide Association Studies](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003235)
 - 2014 - Omnibus test - Bolormaa - [A Multi-Trait, Meta-analysis for Detecting Pleiotropic Polymorphisms for Stature, Fatness and Reproduction in Beef Cattle](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004198)
 -  2014 - Chi-squared based - Bolormaa - [A Multi-Trait, Meta-analysis for Detecting Pleiotropic Polymorphisms for Stature, Fatness and Reproduction in Beef Cattle](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004198)
@@ -71,8 +71,9 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2019 - Adaptive Pleiotropy Test - Masotti - [Pleiotropy informed adaptive association test of multiple traits using genome-wide association study summary data](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13076)
 - 2020 - JASS - Julienne - [JASS: command line and web interface for the joint analysis of GWAS results](https://academic.oup.com/nargab/article/2/1/lqaa003/5715214)
 - 2020 - MOSTest - van der Meer - [Understanding the genetic determinants of the brain with MOSTest](https://www.nature.com/articles/s41467-020-17368-1)
-- 2021 - Liu - OMNI - [An Omnibus Test for Detecting Multiple Phenotype Associations Based on GWAS Summary Level Data](https://www.frontiersin.org/articles/10.3389/fgene.2021.644419/full)
-- 2022 - Qi - fastASSET - [Genome-Wide Large-Scale Multi-Trait Analysis Characterizes Global Patterns of Pleiotropy and Unique Trait-Specific Variants](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1)
+- 2021 - OMNI - Liu - [An Omnibus Test for Detecting Multiple Phenotype Associations Based on GWAS Summary Level Data](https://www.frontiersin.org/articles/10.3389/fgene.2021.644419/full)
+- 2022 fastASSET - Qi - [Genome-Wide Large-Scale Multi-Trait Analysis Characterizes Global Patterns of Pleiotropy and Unique Trait-Specific Variants](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1)
+- 2022 - C-GWAS - Xiong - [Combining genome-wide association studies highlight novel loci involved in human facial variation](https://www.nature.com/articles/s41467-022-35328-9)
 
 ### Other tests
 
@@ -106,6 +107,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2014 - GPA - Chung - [GPA: A Statistical Approach to Prioritizing GWAS Results by Integrating Pleiotropy and Annotation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004787)
 - 2017 - fastPAINTOR - Kichaev - [Improved methods for multi-trait fine mapping of pleiotropic risk loci](https://academic.oup.com/bioinformatics/article/33/2/248/2525720)
 - 2021 - mashr - Urbut - [Flexible statistical methods for estimating and testing effects in genomic studies with multiple conditions](https://www.nature.com/articles/s41588-018-0268-8)
+- 2021 - flashfm - Hernandez - [The flashfm approach for fine-mapping multiple quantitative traits](https://www.nature.com/articles/s41467-021-26364-y)
 
 ### Colocalization
 

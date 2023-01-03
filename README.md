@@ -162,4 +162,4 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - metap: https://cran.r-project.org/web/packages/metap/vignettes/compare.pdf
 - GWAMA: https://www.nature.com/articles/s41467-022-34216-6#Sec16 
 
-- PLACO, MAIUP and more, references from here: https://pubmed.ncbi.nlm.nih.gov/34571531/
+- PLACO, MAIUP and more, references from here: https://pubmed.ncbi.nlm.nih.gov/34571531/ and https://www.sciencedirect.com/science/article/pii/S0197458022002755#bib0051 

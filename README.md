@@ -79,7 +79,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2009 - CMV - Medland - [An integrated phenomic approach to multivariate allelic association](https://www.nature.com/articles/ejhg2009133)
 - 2012 - PSEA - Ried - [PSEA: Phenotype Set Enrichment Analysis—A New Method for Analysis of Multiple Phenotypes](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.21617)
-- 2013 - conditional FDR & conjunction FDR - Andreassen - [Improved Detection of Common Variants Associated with Schizophrenia and Bipolar Disorder Using Pleiotropy-Informed Conditional False Discovery Rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636100/)
+- 2014 - SECA - Nyholt - [SECA: SNP effect concordance analysis using genome-wide association summary results](https://academic.oup.com/bioinformatics/article/30/14/2086/2391139)
 - 2016 - Hierachical error control - [Many Phenotypes Without Many False Discoveries: Error Controlling Strategies for Multitrait Association Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738479/)
 - 2018 - UNITY - Johnson - [A unifying framework for joint trait analysis under a non-infinitesimal model](https://academic.oup.com/bioinformatics/article/34/13/i195/5045708?rss=1&itm_content=bioinformatics&itm_source=trendmd-widget&itm_campaign=trendmd-pilot&itm_medium=sidebar)
 - 2018 - MTAG - Turley - [Multi-trait analysis of genome-wide association summary statistics using MTAG](https://www.nature.com/articles/s41588-017-0009-4)
@@ -93,10 +93,15 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2017 - GNOVA - Lu - [A Powerful Approach to Estimating Annotation-Stratified Genetic Covariance via GWAS Summary Statistics](https://www.sciencedirect.com/science/article/pii/S0002929717304536)
 - 2021 - LAVA - Werme - [LAVA: An integrated framework for local genetic correlation analysis](https://www.biorxiv.org/content/10.1101/2020.12.31.424652v2)
 
-### Polygenicity
+### Polygenicity and pleiotropy
 
+- 2013 - conditional FDR & conjunction FDR - Andreassen - [Improved Detection of Common Variants Associated with Schizophrenia and Bipolar Disorder Using Pleiotropy-Informed Conditional False Discovery Rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636100/)
+- 2014 - GPA - Chung - [GPA: A Statistical Approach to Prioritizing GWAS Results by Integrating Pleiotropy and Annotation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004787)
+- 2016 - gwas-pw - Pickrell - [Detection and interpretation of shared genetic influences on 42 human traits](https://www.nature.com/articles/ng.3570)
+- 2018 - iMAP - Zeng - [Pleiotropic mapping and annotation selection in genome-wide association studies with penalized Gaussian mixture models](https://academic.oup.com/bioinformatics/article/34/16/2797/4960046)
 - 2019 - MiXer - Frei - [Bivariate causal mixture model quantifies polygenic overlap between complex traits beyond genetic correlation](https://www.nature.com/articles/s41467-019-10310-0)
-- 2019 - Gaussian Mixture model - Frei - [Bivariate causal mixture model quantifies polygenic overlap between complex traits beyond genetic correlation](https://www.biorxiv.org/content/10.1101/133132v7)
+- 2020 - PLACO - Ray - [A powerful method for pleiotropic analysis under composite null hypothesis identifies novel shared loci between Type 2 Diabetes and Prostate Cancer](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009218)
+- 2021 - MAIUP - Wang - [Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing](https://academic.oup.com/bib/article/23/1/bbab389/6375058?login=true)
 
 ### Imputation
 
@@ -104,7 +109,6 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ### Finemapping 
 
-- 2014 - GPA - Chung - [GPA: A Statistical Approach to Prioritizing GWAS Results by Integrating Pleiotropy and Annotation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004787)
 - 2017 - fastPAINTOR - Kichaev - [Improved methods for multi-trait fine mapping of pleiotropic risk loci](https://academic.oup.com/bioinformatics/article/33/2/248/2525720)
 - 2021 - mashr - Urbut - [Flexible statistical methods for estimating and testing effects in genomic studies with multiple conditions](https://www.nature.com/articles/s41588-018-0268-8)
 - 2021 - flashfm - Hernandez - [The flashfm approach for fine-mapping multiple quantitative traits](https://www.nature.com/articles/s41467-021-26364-y)
@@ -161,5 +165,3 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - P_act: References from MTAR
 - metap: https://cran.r-project.org/web/packages/metap/vignettes/compare.pdf
 - GWAMA: https://www.nature.com/articles/s41467-022-34216-6#Sec16 
-
-- PLACO, MAIUP and more, references from here: https://pubmed.ncbi.nlm.nih.gov/34571531/ and https://www.sciencedirect.com/science/article/pii/S0197458022002755#bib0051 

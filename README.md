@@ -72,6 +72,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2020 - JASS - Julienne - [JASS: command line and web interface for the joint analysis of GWAS results](https://academic.oup.com/nargab/article/2/1/lqaa003/5715214)
 - 2020 - MOSTest - van der Meer - [Understanding the genetic determinants of the brain with MOSTest](https://www.nature.com/articles/s41467-020-17368-1)
 - 2021 - OMNI - Liu - [An Omnibus Test for Detecting Multiple Phenotype Associations Based on GWAS Summary Level Data](https://www.frontiersin.org/articles/10.3389/fgene.2021.644419/full)
+- 2021 - sumZ<sub>r</sub> & sumZ<sub>g</sub> & sumZ<sub>ica</sub> - Julienne - [Multitrait GWAS to connect disease variants and biological mechanisms](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009713#pgen.1009713.ref027)
 - 2022 fastASSET - Qi - [Genome-Wide Large-Scale Multi-Trait Analysis Characterizes Global Patterns of Pleiotropy and Unique Trait-Specific Variants](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1)
 - 2022 - C-GWAS - Xiong - [Combining genome-wide association studies highlight novel loci involved in human facial variation](https://www.nature.com/articles/s41467-022-35328-9)
 
@@ -106,6 +107,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 ### Imputation
 
 - 2016 - PHENIX - Dahl - [A multiple-phenotype imputation method for genetic studies](https://www.nature.com/articles/ng.3513)
+- 2019 - RAISS - Julienne - [RAISS: robust and accurate imputation from summary statistics](https://academic.oup.com/bioinformatics/article/35/22/4837/5512360)
 
 ### Finemapping 
 

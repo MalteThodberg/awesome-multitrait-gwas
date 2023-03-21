@@ -104,10 +104,20 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2020 - PLACO - Ray - [A powerful method for pleiotropic analysis under composite null hypothesis identifies novel shared loci between Type 2 Diabetes and Prostate Cancer](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009218)
 - 2021 - MAIUP - Wang - [Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing](https://academic.oup.com/bib/article/23/1/bbab389/6375058?login=true)
 
-### Imputation
+### Imputation of phenotypes
 
 - 2016 - PHENIX - Dahl - [A multiple-phenotype imputation method for genetic studies](https://www.nature.com/articles/ng.3513)
+- 2016 - PhenUMP - Hormozdiari - [Imputing Phenotypes for Genome-wide Association Studies](https://www.sciencedirect.com/science/article/pii/S000292971630132X?via%3Dihub)
+- 
+
+### Imputation of summary statistics
+
+- 2014 - ImpG-Summary - Pasanuic - [Fast and accurate imputation of summary statistics enhances evidence of functional enrichment](https://academic.oup.com/bioinformatics/article/30/20/2906/2422225#supplementary-data)
+- 2018 - ARDISS - Togninalli - [Accurate and adaptive imputation of summary statistics in mixed-ethnicity cohorts](https://academic.oup.com/bioinformatics/article/34/17/i687/5093230)
+- 2018 - SSIMP - Rueger - [Evaluation and application of summary statistic imputation to discover new height-associated loci](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007371)
 - 2019 - RAISS - Julienne - [RAISS: robust and accurate imputation from summary statistics](https://academic.oup.com/bioinformatics/article/35/22/4837/5512360)
+- 2020 - SSI - Wu - [A Unifying Framework for Imputing Summary Statistics in Genome-Wide Association Studies](https://www.liebertpub.com/doi/10.1089/cmb.2019.0449)
+- 2021 - DENTIST - Chen - [Improved analyses of GWAS summary statistics by reducing data heterogeneity and errors](https://www.nature.com/articles/s41467-021-27438-7)
 
 ### Finemapping 
 

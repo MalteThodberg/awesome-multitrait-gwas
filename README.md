@@ -172,6 +172,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 ## Unsorted
 
 - https://www.nature.com/articles/s41598-023-30415-3: CLC, ceCLC and references for PCMinP and PCFisher
+- https://arxiv.org/pdf/2303.10221.pdf Higgs method
+
 
 - HIPO: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007549
 - JASS: https://academic.oup.com/nargab/article/2/1/lqaa003/5715214

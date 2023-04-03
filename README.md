@@ -98,13 +98,13 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2013 - conditional FDR & conjunction FDR - Andreassen - [Improved Detection of Common Variants Associated with Schizophrenia and Bipolar Disorder Using Pleiotropy-Informed Conditional False Discovery Rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636100/)
 - 2014 - GPA - Chung - [GPA: A Statistical Approach to Prioritizing GWAS Results by Integrating Pleiotropy and Annotation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004787)
-- 2015 - GPS - Li - [Meta-analysis of shared genetic architecture across ten pediatric autoimmune diseases]{https://www.nature.com/articles/nm.3933}
+- 2015 - GPS - Li - [Meta-analysis of shared genetic architecture across ten pediatric autoimmune diseases](https://www.nature.com/articles/nm.3933)
 - 2016 - gwas-pw - Pickrell - [Detection and interpretation of shared genetic influences on 42 human traits](https://www.nature.com/articles/ng.3570)
 - 2018 - iMAP - Zeng - [Pleiotropic mapping and annotation selection in genome-wide association studies with penalized Gaussian mixture models](https://academic.oup.com/bioinformatics/article/34/16/2797/4960046)
 - 2019 - MiXer - Frei - [Bivariate causal mixture model quantifies polygenic overlap between complex traits beyond genetic correlation](https://www.nature.com/articles/s41467-019-10310-0)
 - 2020 - PLACO - Ray - [A powerful method for pleiotropic analysis under composite null hypothesis identifies novel shared loci between Type 2 Diabetes and Prostate Cancer](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009218)
 - 2021 - MAIUP - Wang - [Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing](https://academic.oup.com/bib/article/23/1/bbab389/6375058?login=true)
-- 2023 - GPS-GEV - Willis - [Accurate detection of shared genetic architecture from GWAS summary statistics in the small-sample context]{https://www.biorxiv.org/content/10.1101/2022.10.13.512103v2.full}
+- 2023 - GPS-GEV - Willis - [Accurate detection of shared genetic architecture from GWAS summary statistics in the small-sample context](https://www.biorxiv.org/content/10.1101/2022.10.13.512103v2.full)
 
 ### Imputation of phenotypes
 

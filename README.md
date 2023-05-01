@@ -75,6 +75,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2021 - sumZ<sub>r</sub> & sumZ<sub>g</sub> & sumZ<sub>ica</sub> - Julienne - [Multitrait GWAS to connect disease variants and biological mechanisms](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009713#pgen.1009713.ref027)
 - 2022 fastASSET - Qi - [Genome-Wide Large-Scale Multi-Trait Analysis Characterizes Global Patterns of Pleiotropy and Unique Trait-Specific Variants](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1)
 - 2022 - C-GWAS - Xiong - [Combining genome-wide association studies highlight novel loci involved in human facial variation](https://www.nature.com/articles/s41467-022-35328-9)
+- 2022 - PolarMorphism - von Berg - [PolarMorphism enables discovery of shared genetic variants across multiple traits from GWAS summary statistics](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i212/6617483)
 
 ### Other tests
 
@@ -118,6 +119,10 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2018 - SSIMP - Rueger - [Evaluation and application of summary statistic imputation to discover new height-associated loci](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007371)
 - 2019 - RAISS - Julienne - [RAISS: robust and accurate imputation from summary statistics](https://academic.oup.com/bioinformatics/article/35/22/4837/5512360)
 - 2020 - SSI - Wu - [A Unifying Framework for Imputing Summary Statistics in Genome-Wide Association Studies](https://www.liebertpub.com/doi/10.1089/cmb.2019.0449)
+
+### Cleaning and decorrelation of summary statistics
+
+- 2018 - z<sub>de-corr</sub> - LeBlanc - [A correction for sample overlap in genome-wide association studies in a polygenic pleiotropy-informed framework](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4859-7)
 - 2021 - DENTIST - Chen - [Improved analyses of GWAS summary statistics by reducing data heterogeneity and errors](https://www.nature.com/articles/s41467-021-27438-7)
 
 ### Finemapping 
@@ -125,6 +130,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2017 - fastPAINTOR - Kichaev - [Improved methods for multi-trait fine mapping of pleiotropic risk loci](https://academic.oup.com/bioinformatics/article/33/2/248/2525720)
 - 2021 - mashr - Urbut - [Flexible statistical methods for estimating and testing effects in genomic studies with multiple conditions](https://www.nature.com/articles/s41588-018-0268-8)
 - 2021 - flashfm - Hernandez - [The flashfm approach for fine-mapping multiple quantitative traits](https://www.nature.com/articles/s41467-021-26364-y)
+- 2023 - mvSuSiE - Zou - [Fast and flexible joint fine-mapping of multiple traits via the Sum of Single Effects model](https://www.biorxiv.org/content/10.1101/2023.04.14.536893v1)
 
 ### Colocalization
 

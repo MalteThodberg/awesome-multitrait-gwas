@@ -18,6 +18,13 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - [Meta analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
 - [Combination P-values](https://cran.r-project.org/web/packages/metap/index.html)
 
+### General tools
+
+- 2019 - GWAS.utils - Rueger - [An R package with basic helper functions for manipulating GWAS data, including two GWAS datasets. ](https://github.com/sinarueeger/GWAS.utils)
+- 2020 - SumTool - Yin - [A memory-efficient, parallel-accelerated tool for Summary data based genomic prediction](https://github.com/YinLiLin/SumTool)
+- 2021 - MungeSumStats - Murphy - [MungeSumstats: a Bioconductor package for the standardization and quality control of many GWAS summary statistics ](https://academic.oup.com/bioinformatics/article/37/23/4593/6380562?login=true)
+- 2023 - GWASLab - HE - [GWASLab: a Python package for processing and visualizing GWAS summary statistics](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/370/)
+
 ### Large number of univariate tests
 
 - 2012 - MatrixEQTL - Shabalin - [Matrix eQTL: ultra fast eQTL analysis via large matrix operations](https://academic.oup.com/bioinformatics/article/28/10/1353/213326)
@@ -69,6 +76,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2018 - Adaptive PC Test & Z-scores test & modified metaUSAT- Guo - [Integrate multiple traits to detect novel trait–gene association using GWAS summary data with an adaptive test approach](https://academic.oup.com/bioinformatics/article/35/13/2251/5201342)
 - 2019 - aMAT - Wu - [Multi-trait genome-wide analyses of the brain imaging phenotypes in UK Biobank](https://www.biorxiv.org/content/10.1101/758326v1)
 - 2019 - Adaptive Pleiotropy Test - Masotti - [Pleiotropy informed adaptive association test of multiple traits using genome-wide association study summary data](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13076)
+- 2020 - metapod - Lun - [Meta-Analyses on P-Values of Differential Analyses](https://bioconductor.org/packages/release/bioc/html/metapod.html)
 - 2020 - JASS - Julienne - [JASS: command line and web interface for the joint analysis of GWAS results](https://academic.oup.com/nargab/article/2/1/lqaa003/5715214)
 - 2020 - MOSTest - van der Meer - [Understanding the genetic determinants of the brain with MOSTest](https://www.nature.com/articles/s41467-020-17368-1)
 - 2021 - OMNI - Liu - [An Omnibus Test for Detecting Multiple Phenotype Associations Based on GWAS Summary Level Data](https://www.frontiersin.org/articles/10.3389/fgene.2021.644419/full)

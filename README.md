@@ -119,6 +119,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2016 - PHENIX - Dahl - [A multiple-phenotype imputation method for genetic studies](https://www.nature.com/articles/ng.3513)
 - 2016 - PhenUMP - Hormozdiari - [Imputing Phenotypes for Genome-wide Association Studies](https://www.sciencedirect.com/science/article/pii/S000292971630132X?via%3Dihub)
+- 2023 - MFRF - Gu - [Rapid and accurate multi-phenotype imputation for millions of individuals](https://www.biorxiv.org/content/10.1101/2023.06.25.546422v1)
 
 ### Imputation of summary statistics
 

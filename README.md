@@ -199,5 +199,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ## Unsorted
 
+- HCM: https://pubmed.ncbi.nlm.nih.gov/29682782/
+- AFC: https://www.nature.com/articles/srep34323
+
 - https://arxiv.org/pdf/2303.10221.pdf Higgs method
 - GWAMA: https://www.nature.com/articles/s41467-022-34216-6#Sec16 

@@ -47,6 +47,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2015 - ACL - Wu - [Statistical Methods for Association Tests of Multiple Continuous Traits in Genome-Wide Association Studies](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ahg.12110)
 - 2018 - SBAT - Elliot - [Genome-wide association studies of brain imaging phenotypes in UK Biobank](https://www.nature.com/articles/s41586-018-0571-7)
 - 2018 - Q, T, T' - Wu - [Fast and Accurate Genome-Wide Association Test of Multiple Quantitative Traits](https://www.hindawi.com/journals/cmmm/2018/2564531/)
+- 2018 - CLC - Sha - [A clustering linear combination approach to jointly analyze multiple phenotypes for GWAS](https://academic.oup.com/bioinformatics/article/35/8/1373/5102868)
+- 2022 - ceCLC - Wang - [A computationally efficient clustering linear combination approach to jointly analyze multiple phenotypes for GWAS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260911)
 
 ### Indirect tests
 
@@ -63,16 +65,19 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2010 - METAL - Willer - [METAL: fast and efficient meta-analysis of genomewide association scans](https://academic.oup.com/bioinformatics/article/26/17/2190/198154)
 - 2012 - ASSET - Bhattacharjee - [A subset-based approach improves power and interpretation for the combined analysis of genetic association studies of heterogeneous traits](https://www.sciencedirect.com/science/article/pii/S0002929712001590?via%3Dihub)
 - 2013 - TATES - van der Sluis - [TATES: Efficient Multivariate Genotype-Phenotype Analysis for Genome-Wide Association Studies](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003235)
-- 2014 - Omnibus test - Bolormaa - [A Multi-Trait, Meta-analysis for Detecting Pleiotropic Polymorphisms for Stature, Fatness and Reproduction in Beef Cattle](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004198)
--  2014 - Chi-squared based - Bolormaa - [A Multi-Trait, Meta-analysis for Detecting Pleiotropic Polymorphisms for Stature, Fatness and Reproduction in Beef Cattle](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004198)
+- 2014 - Omnibus test / Wald test / Chi-square-based test - Bolormaa - [A Multi-Trait, Meta-analysis for Detecting Pleiotropic Polymorphisms for Stature, Fatness and Reproduction in Beef Cattle](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004198)
 - 2015 - S<sub>Hom</sub> / S<sub>Het</sub> - Zhu - [Meta-analysis of Correlated Traits via Summary Statistics from GWASs with an Application in Hypertension](https://www.sciencedirect.com/science/article/pii/S0002929714004777)
 - 2015 - MGAS - van der Sluis - [MGAS: a powerful tool for multivariate gene-based genome-wide association analysis](https://academic.oup.com/bioinformatics/article/31/7/1007/181296)
+- 2015 - aSPU - Kim - [An Adaptive Association Test for Multiple Phenotypes with GWAS Summary Statistics](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.21931)
 - 2016 - metaCCA - Cichonska - [metaCCA: summary statistics-based multivariate meta-analysis of genome-wide association studies using canonical correlation analysis](https://academic.oup.com/bioinformatics/article/32/13/1981/1742730)
+- 2016 - Modified Benjamini-Holm - Majumdar - [Determining Which Phenotypes Underlie a Pleiotropic Signal](https://onlinelibrary.wiley.com/doi/10.1002/gepi.21973#gepi21973-bib-0016)
 - 2017 - metaUSAT - Ray - [Methods for meta-analysis of multiple traits using GWAS summary statistics](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22105)
+- 2017 - MPAT: SUM, VC, mixSD, and MixFisher - Liu - [Multiple phenotype association tests using summary statistics in genome-wide association studies](https://onlinelibrary.wiley.com/doi/10.1111/biom.12735)
 - 2018 - Qi - HIPO - [Heritability informed power optimization (HIPO) leads to enhanced detection of genetic associations across multiple traits](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007549)
 - 2018 - Guo - Adaptive PC test - [Principal component based adaptive association test of multiple traits using GWAS summary statistics](https://www.biorxiv.org/content/10.1101/269597v1.abstract)
 - 2019 - metaPhat - Lin - [MetaPhat: Detecting and decomposing multivariate associations from univariate genomewide association statistics](https://www.biorxiv.org/content/10.1101/661421v1)
 - 2019 - meta-MultiSKAT - Dutta - [Meta‐MultiSKAT: Multiple phenotype meta‐analysis for region‐based association test](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22248)
+- 2019 - MPAT: PCMinP, PCFisher, PCLC, Single PC, WI, PCQ, PCO - Liu - [A Geometric Perspective on the Power of Principal Component Association Tests in Multiple Phenotype Studies](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1513363)
 - 2018 - Adaptive PC Test & Z-scores test & modified metaUSAT- Guo - [Integrate multiple traits to detect novel trait–gene association using GWAS summary data with an adaptive test approach](https://academic.oup.com/bioinformatics/article/35/13/2251/5201342)
 - 2019 - aMAT - Wu - [Multi-trait genome-wide analyses of the brain imaging phenotypes in UK Biobank](https://www.biorxiv.org/content/10.1101/758326v1)
 - 2019 - Adaptive Pleiotropy Test - Masotti - [Pleiotropy informed adaptive association test of multiple traits using genome-wide association study summary data](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13076)
@@ -81,9 +86,11 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2020 - MOSTest - van der Meer - [Understanding the genetic determinants of the brain with MOSTest](https://www.nature.com/articles/s41467-020-17368-1)
 - 2021 - OMNI - Liu - [An Omnibus Test for Detecting Multiple Phenotype Associations Based on GWAS Summary Level Data](https://www.frontiersin.org/articles/10.3389/fgene.2021.644419/full)
 - 2021 - sumZ<sub>r</sub> & sumZ<sub>g</sub> & sumZ<sub>ica</sub> - Julienne - [Multitrait GWAS to connect disease variants and biological mechanisms](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009713#pgen.1009713.ref027)
+- 2021 - EBMMT - Liu - [The eigen higher criticism and eigen Berk–Jones tests for multiple trait association studies based on GWAS summary statistics](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22439)
 - 2022 fastASSET - Qi - [Genome-Wide Large-Scale Multi-Trait Analysis Characterizes Global Patterns of Pleiotropy and Unique Trait-Specific Variants](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1)
 - 2022 - C-GWAS - Xiong - [Combining genome-wide association studies highlight novel loci involved in human facial variation](https://www.nature.com/articles/s41467-022-35328-9)
 - 2022 - PolarMorphism - von Berg - [PolarMorphism enables discovery of shared genetic variants across multiple traits from GWAS summary statistics](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i212/6617483)
+- 2023 - sCLC - Wang - [A clustering linear combination method for multiple phenotype association studies based on GWAS summary statistics](https://www.nature.com/articles/s41598-023-30415-3)
 
 ### Other tests
 
@@ -108,10 +115,12 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2013 - conditional FDR & conjunction FDR - Andreassen - [Improved Detection of Common Variants Associated with Schizophrenia and Bipolar Disorder Using Pleiotropy-Informed Conditional False Discovery Rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636100/)
 - 2014 - GPA - Chung - [GPA: A Statistical Approach to Prioritizing GWAS Results by Integrating Pleiotropy and Annotation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004787)
 - 2015 - GPS - Li - [Meta-analysis of shared genetic architecture across ten pediatric autoimmune diseases](https://www.nature.com/articles/nm.3933)
-- 2016 - gwas-pw - Pickrell - [Detection and interpretation of shared genetic influences on 42 human traits](https://www.nature.com/articles/ng.3570)
+- 2015 - cFDR/uFDR - Liley - [A Pleiotropy-Informed Bayesian False Discovery Rate Adapted to a Shared Control Design Finds New Disease Associations From GWAS Summary Statistics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004926)
 - 2018 - iMAP - Zeng - [Pleiotropic mapping and annotation selection in genome-wide association studies with penalized Gaussian mixture models](https://academic.oup.com/bioinformatics/article/34/16/2797/4960046)
 - 2019 - MiXer - Frei - [Bivariate causal mixture model quantifies polygenic overlap between complex traits beyond genetic correlation](https://www.nature.com/articles/s41467-019-10310-0)
 - 2020 - PLACO - Ray - [A powerful method for pleiotropic analysis under composite null hypothesis identifies novel shared loci between Type 2 Diabetes and Prostate Cancer](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009218)
+- 2021 - cFDR: v-values - Liley - [Accurate error control in high-dimensional association testing using conditional false discovery rates](https://onlinelibrary.wiley.com/doi/10.1002/bimj.201900254)
+- 2021 - fcfdr - Hutchinson - [Leveraging auxiliary data from arbitrary distributions to boost GWAS discovery with Flexible cFDR](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009853)
 - 2021 - MAIUP - Wang - [Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing](https://academic.oup.com/bib/article/23/1/bbab389/6375058?login=true)
 - 2023 - GPS-GEV - Willis - [Accurate detection of shared genetic architecture from GWAS summary statistics in the small-sample context](https://www.biorxiv.org/content/10.1101/2022.10.13.512103v2.full)
 
@@ -142,13 +151,16 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2023 - mvSuSiE - Zou - [Fast and flexible joint fine-mapping of multiple traits via the Sum of Single Effects model](https://www.biorxiv.org/content/10.1101/2023.04.14.536893v1)
 
 ### Colocalization
-
 - 2014 - coloc - Giambartolomei - [Bayesian Test for Colocalisation between Pairs of Genetic Association Studies Using Summary Statistics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383)
 - 2016 - eCAVIAR - Hormozdiari - [Colocalization of GWAS and eQTL Signals Detects Target Genes](https://www.sciencedirect.com/science/article/pii/S0002929716304396?via%3Dihub)
+- 2016 - gwas-pw - Pickrell - [Detection and interpretation of shared genetic influences on 42 human traits](https://www.nature.com/articles/ng.3570)
+- 2017 - Plei - Deng - [Testing Genetic Pleiotropy with GWAS Summary Statistics for Marginal and Conditional Analyses](https://academic.oup.com/genetics/article/207/4/1285/5930701)
 - 2018 - moloc - Giambartolomei - [A Bayesian framework for multiple trait colocalization from summary association statistics](https://academic.oup.com/bioinformatics/article/34/15/2538/4944428)
+- 2020 - jointsum - Deng - [A powerful and versatile colocalization test](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007778)
 - 2020 - PRIMO - Gleason - [Primo: integration of multiple GWAS and omics QTL summary statistics for elucidation of molecular mechanisms of trait-associated SNPs and detection of pleiotropy in complex traits](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02125-w)
 - 2021 - HyPrColoc - Foley - [A fast and efficient colocalization algorithm for identifying shared genetic risk factors across multiple traits](https://www.nature.com/articles/s41467-020-20885-8)
-- 2021 - Wallace - COLOC/SuSiE - [A more accurate method for colocalisation analysis allowing for multiple causal variants](https://www.biorxiv.org/content/10.1101/2021.02.23.432421v2)
+- 2021 - COLOC/SuSiE - Wallace - [A more accurate method for colocalisation analysis allowing for multiple causal variants](https://www.biorxiv.org/content/10.1101/2021.02.23.432421v2)
+- 2023 - OPERA - Wu - [Joint analysis of GWAS and multi-omics QTL summary statistics reveals a large fraction of GWAS signals shared with molecular phenotypes](https://www.sciencedirect.com/science/article/pii/S2666979X23001192?via%3Dihub)
 
 ### Rare variants
 
@@ -183,17 +195,9 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2019 - van Rheenen - [Genetic correlations of polygenic disease traits: from theory to practice](https://www.nature.com/articles/s41576-019-0137-z)
 - 2019 - Ray - [Effect of non-normality and low count variants on cross-phenotype association tests in GWAS](https://www.nature.com/articles/s41431-019-0514-2)
 - 2019 - Vroom - [The more the merrier? Multivariate approaches to genome-wide association analysis](https://www.biorxiv.org/content/10.1101/610287v3)
+- 2021 - Sitlani - [Comparison of adaptive multiple phenotype association tests using summary statistics in genome-wide association studies](https://academic.oup.com/hmg/article/30/15/1371/6265024)
 
 ## Unsorted
 
-- https://www.nature.com/articles/s41598-023-30415-3: CLC, ceCLC and references for PCMinP and PCFisher
 - https://arxiv.org/pdf/2303.10221.pdf Higgs method
-
-
-- HIPO: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007549
-- JASS: https://academic.oup.com/nargab/article/2/1/lqaa003/5715214
-- metaUSAT: https://academic.oup.com/nargab/article/2/1/lqaa003/5715214
-- jointsum/Plei: https://pubmed.ncbi.nlm.nih.gov/32275709/ & https://academic.oup.com/genetics/article/207/4/1285/5930701
-- P_act: References from MTAR
-- metap: https://cran.r-project.org/web/packages/metap/vignettes/compare.pdf
 - GWAMA: https://www.nature.com/articles/s41467-022-34216-6#Sec16 

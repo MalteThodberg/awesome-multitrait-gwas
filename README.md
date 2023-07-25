@@ -91,6 +91,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2022 - C-GWAS - Xiong - [Combining genome-wide association studies highlight novel loci involved in human facial variation](https://www.nature.com/articles/s41467-022-35328-9)
 - 2022 - PolarMorphism - von Berg - [PolarMorphism enables discovery of shared genetic variants across multiple traits from GWAS summary statistics](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i212/6617483)
 - 2023 - sCLC - Wang - [A clustering linear combination method for multiple phenotype association studies based on GWAS summary statistics](https://www.nature.com/articles/s41598-023-30415-3)
+- 2023 - TraitScan - Cao - [Subset scanning for multi-trait analysis using GWAS summary statistics](https://www.medrxiv.org/content/10.1101/2023.07.19.23292708v1)
 
 ### Other tests
 

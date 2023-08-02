@@ -22,7 +22,6 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - 2019 - GWAS.utils - Rueger - [An R package with basic helper functions for manipulating GWAS data, including two GWAS datasets. ](https://github.com/sinarueeger/GWAS.utils)
 - 2020 - SumTool - Yin - [A memory-efficient, parallel-accelerated tool for Summary data based genomic prediction](https://github.com/YinLiLin/SumTool)
-- 2021 - MungeSumStats - Murphy - [MungeSumstats: a Bioconductor package for the standardization and quality control of many GWAS summary statistics ](https://academic.oup.com/bioinformatics/article/37/23/4593/6380562?login=true)
 - 2023 - GWASLab - HE - [GWASLab: a Python package for processing and visualizing GWAS summary statistics](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/370/)
 
 ### Large number of univariate tests
@@ -141,8 +140,12 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ### Cleaning and decorrelation of summary statistics
 
+- 2012 - Visschers statistic - Yan - [FTO genotype is associated with phenotypic variability of body mass index](https://www.nature.com/articles/nature11401#Sec2)
+- 2014 - QCGWAS - van der Most - [QCGWAS: A flexible R package for automated quality control of genome-wide association results](https://academic.oup.com/bioinformatics/article/30/8/1185/254943#)
 - 2018 - z<sub>de-corr</sub> - LeBlanc - [A correction for sample overlap in genome-wide association studies in a polygenic pleiotropy-informed framework](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4859-7)
 - 2021 - DENTIST - Chen - [Improved analyses of GWAS summary statistics by reducing data heterogeneity and errors](https://www.nature.com/articles/s41467-021-27438-7)
+- 2021 - MungeSumStats - Murphy - [MungeSumstats: a Bioconductor package for the standardization and quality control of many GWAS summary statistics ](https://academic.oup.com/bioinformatics/article/37/23/4593/6380562?login=true)
+- 2022 - SumStatsRehab - Matushyn - [SumStatsRehab: an efficient algorithm for GWAS summary statistics assessment and restoration](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04920-7)
 
 ### Finemapping 
 
@@ -152,6 +155,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2023 - mvSuSiE - Zou - [Fast and flexible joint fine-mapping of multiple traits via the Sum of Single Effects model](https://www.biorxiv.org/content/10.1101/2023.04.14.536893v1)
 
 ### Colocalization
+
 - 2014 - coloc - Giambartolomei - [Bayesian Test for Colocalisation between Pairs of Genetic Association Studies Using Summary Statistics](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004383)
 - 2016 - eCAVIAR - Hormozdiari - [Colocalization of GWAS and eQTL Signals Detects Target Genes](https://www.sciencedirect.com/science/article/pii/S0002929716304396?via%3Dihub)
 - 2016 - gwas-pw - Pickrell - [Detection and interpretation of shared genetic influences on 42 human traits](https://www.nature.com/articles/ng.3570)

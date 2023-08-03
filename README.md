@@ -140,8 +140,10 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ### Cleaning and decorrelation of summary statistics
 
+- 2012 - GWAtoolbox - Fuchsberger - [GWAtoolbox: an R package for fast quality control and handling of genome-wide association studies meta-analysis data](https://academic.oup.com/bioinformatics/article/28/3/444/189687?login=true)
 - 2012 - Visschers statistic - Yan - [FTO genotype is associated with phenotypic variability of body mass index](https://www.nature.com/articles/nature11401#Sec2)
 - 2014 - QCGWAS - van der Most - [QCGWAS: A flexible R package for automated quality control of genome-wide association results](https://academic.oup.com/bioinformatics/article/30/8/1185/254943#)
+- 2014 - SE-N, P-Z and EAF plots - Winkler - [Quality control and conduct of genome-wide association meta-analyses](https://www.nature.com/articles/nprot.2014.071)
 - 2018 - z<sub>de-corr</sub> - LeBlanc - [A correction for sample overlap in genome-wide association studies in a polygenic pleiotropy-informed framework](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4859-7)
 - 2021 - DENTIST - Chen - [Improved analyses of GWAS summary statistics by reducing data heterogeneity and errors](https://www.nature.com/articles/s41467-021-27438-7)
 - 2021 - MungeSumStats - Murphy - [MungeSumstats: a Bioconductor package for the standardization and quality control of many GWAS summary statistics ](https://academic.oup.com/bioinformatics/article/37/23/4593/6380562?login=true)

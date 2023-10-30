@@ -206,6 +206,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ## Unsorted
 
+- JASS update: https://www.biorxiv.org/content/10.1101/2023.10.27.564319v1
+  
 - HCM: https://pubmed.ncbi.nlm.nih.gov/29682782/
 - AFC: https://www.nature.com/articles/srep34323
 

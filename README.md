@@ -42,12 +42,13 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2013 - BSLMM - Zhou - [Polygenic Modeling with Bayesian Sparse Linear Mixed Models](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003264)
 - 2013 - MV-BIMBAM - Stephens - [A Unified Framework for Association Analysis with Multiple Related Phenotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065245)
 - 2014 - mvLMM-GEMMA - Zhou - [Efficient Algorithms for Multivariate Linear Mixed Models in Genome-wide Association Studies](https://www.nature.com/articles/nmeth.2848)
-- 2015 - Ray - USAT - [USAT: A Unified Score‐Based Association Test for Multiple Phenotype‐Genotype Analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.21937)
+- 2015 - USAT - Ray - [USAT: A Unified Score‐Based Association Test for Multiple Phenotype‐Genotype Analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.21937)
 - 2015 - ACL - Wu - [Statistical Methods for Association Tests of Multiple Continuous Traits in Genome-Wide Association Studies](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ahg.12110)
 - 2018 - SBAT - Elliot - [Genome-wide association studies of brain imaging phenotypes in UK Biobank](https://www.nature.com/articles/s41586-018-0571-7)
 - 2018 - Q, T, T' - Wu - [Fast and Accurate Genome-Wide Association Test of Multiple Quantitative Traits](https://www.hindawi.com/journals/cmmm/2018/2564531/)
 - 2018 - CLC - Sha - [A clustering linear combination approach to jointly analyze multiple phenotypes for GWAS](https://academic.oup.com/bioinformatics/article/35/8/1373/5102868)
 - 2022 - ceCLC - Wang - [A computationally efficient clustering linear combination approach to jointly analyze multiple phenotypes for GWAS](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260911)
+- 2024 - SIR - Sun - [Multiple phenotype association tests based on sliced inverse regression](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05731-8#additional-information)
 
 ### Indirect tests
 

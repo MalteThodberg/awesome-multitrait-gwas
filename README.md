@@ -166,9 +166,11 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2018 - moloc - Giambartolomei - [A Bayesian framework for multiple trait colocalization from summary association statistics](https://academic.oup.com/bioinformatics/article/34/15/2538/4944428)
 - 2020 - jointsum - Deng - [A powerful and versatile colocalization test](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007778)
 - 2020 - PRIMO - Gleason - [Primo: integration of multiple GWAS and omics QTL summary statistics for elucidation of molecular mechanisms of trait-associated SNPs and detection of pleiotropy in complex traits](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02125-w)
+- 2020 - PWCoCo - Zheng - [Phenome-wide Mendelian randomization mapping the influence of the plasma proteome on complex diseases](https://www.nature.com/articles/s41588-020-0682-6#Sec11)
 - 2021 - HyPrColoc - Foley - [A fast and efficient colocalization algorithm for identifying shared genetic risk factors across multiple traits](https://www.nature.com/articles/s41467-020-20885-8)
 - 2021 - COLOC/SuSiE - Wallace - [A more accurate method for colocalisation analysis allowing for multiple causal variants](https://www.biorxiv.org/content/10.1101/2021.02.23.432421v2)
 - 2023 - OPERA - Wu - [Joint analysis of GWAS and multi-omics QTL summary statistics reveals a large fraction of GWAS signals shared with molecular phenotypes](https://www.sciencedirect.com/science/article/pii/S2666979X23001192?via%3Dihub)
+- 2024 - SharePro - Zhang - [SharePro: an accurate and efficient genetic colocalization method accounting for multiple causal signals](https://academic.oup.com/bioinformatics/article/40/5/btae295/7660541)
 
 ### Rare variants
 

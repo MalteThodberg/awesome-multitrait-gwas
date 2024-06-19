@@ -206,6 +206,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2019 - Ray - [Effect of non-normality and low count variants on cross-phenotype association tests in GWAS](https://www.nature.com/articles/s41431-019-0514-2)
 - 2019 - Vroom - [The more the merrier? Multivariate approaches to genome-wide association analysis](https://www.biorxiv.org/content/10.1101/610287v3)
 - 2021 - Sitlani - [Comparison of adaptive multiple phenotype association tests using summary statistics in genome-wide association studies](https://academic.oup.com/hmg/article/30/15/1371/6265024)
+- 2024 - Suzuki - [Trait selection strategy in multi-trait GWAS: Boosting SNPs discoverability](https://www.cell.com/hgg-advances/fulltext/S2666-2477(24)00058-7)
 
 ## Unsorted
 

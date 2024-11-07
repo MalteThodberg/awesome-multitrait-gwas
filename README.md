@@ -212,6 +212,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 - QC for meta-analysis studies on the same traits: https://www.nature.com/articles/ejhg2016106
 
+- General review with overview of methods: https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00385-x 
+
 - JASS update: https://www.biorxiv.org/content/10.1101/2023.10.27.564319v1
 - FactorGO: https://www.medrxiv.org/content/10.1101/2023.03.27.23287801v1
 

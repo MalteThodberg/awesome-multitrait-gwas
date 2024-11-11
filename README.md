@@ -210,6 +210,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ## Unsorted
 
+- winners curse: https://amandaforde.github.io/winnerscurse/index.html 
+
 - QC for meta-analysis studies on the same traits: https://www.nature.com/articles/ejhg2016106
 
 - General review with overview of methods: https://biodatamining.biomedcentral.com/articles/10.1186/s13040-024-00385-x 

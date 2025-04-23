@@ -110,6 +110,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2015 - BOLT-REML - Loh - [Contrasting genetic architectures of schizophrenia and other complex diseases using fast variance-components analysis](https://www.nature.com/articles/ng.3431)
 - 2017 - GNOVA - Lu - [A Powerful Approach to Estimating Annotation-Stratified Genetic Covariance via GWAS Summary Statistics](https://www.sciencedirect.com/science/article/pii/S0002929717304536)
 - 2021 - LAVA - Werme - [LAVA: An integrated framework for local genetic correlation analysis](https://www.biorxiv.org/content/10.1101/2020.12.31.424652v2)
+- 2021 - LD-block Spearman correlation - [Shared heritability of human face and brain shape](https://www.nature.com/articles/s41588-021-00827-w#code-availability)
 
 ### Polygenicity and pleiotropy
 
@@ -138,6 +139,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2018 - SSIMP - Rueger - [Evaluation and application of summary statistic imputation to discover new height-associated loci](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007371)
 - 2019 - RAISS - Julienne - [RAISS: robust and accurate imputation from summary statistics](https://academic.oup.com/bioinformatics/article/35/22/4837/5512360)
 - 2020 - SSI - Wu - [A Unifying Framework for Imputing Summary Statistics in Genome-Wide Association Studies](https://www.liebertpub.com/doi/10.1089/cmb.2019.0449)
+- 2024  - PRED-LD - Manios - [PRED-LD: efficient imputation of GWAS summary statistics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-025-06119-y)
 
 ### Cleaning and decorrelation of summary statistics
 

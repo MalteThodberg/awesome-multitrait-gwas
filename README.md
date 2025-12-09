@@ -126,6 +126,7 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2021 - fcfdr - Hutchinson - [Leveraging auxiliary data from arbitrary distributions to boost GWAS discovery with Flexible cFDR](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009853)
 - 2021 - MAIUP - Wang - [Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing](https://academic.oup.com/bib/article/23/1/bbab389/6375058?login=true)
 - 2023 - GPS-GEV - Willis - [Accurate detection of shared genetic architecture from GWAS summary statistics in the small-sample context](https://www.biorxiv.org/content/10.1101/2022.10.13.512103v2.full)
+- 2026 - PLACO+ - Park - [A robust pleiotropy method with applications to lipid traits and to inflammatory bowel disease subtypes with sample overlap](https://www.cell.com/hgg-advances/fulltext/S2666-2477(25)00104-6)
 
 ### Imputation of phenotypes
 

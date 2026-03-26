@@ -214,6 +214,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ## Unsorted
 
+- reverseGWAS: https://academic.oup.com/bioinformatics/article/42/3/btag079/8489043
+
 - winners curse: https://amandaforde.github.io/winnerscurse/index.html 
 
 - QC for meta-analysis studies on the same traits: https://www.nature.com/articles/ejhg2016106

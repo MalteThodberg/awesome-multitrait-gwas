@@ -214,6 +214,8 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 
 ## Unsorted
 
+- https://cran.r-project.org/web/packages/csmGmm/index.html & https://arxiv.org/pdf/2610.00962
+
 - reverseGWAS: https://academic.oup.com/bioinformatics/article/42/3/btag079/8489043
 
 - winners curse: https://amandaforde.github.io/winnerscurse/index.html 

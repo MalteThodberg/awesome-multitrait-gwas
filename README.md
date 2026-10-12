@@ -128,6 +128,14 @@ For brevity, below lists only the first author of multi-trait GWAS methods.
 - 2023 - GPS-GEV - Willis - [Accurate detection of shared genetic architecture from GWAS summary statistics in the small-sample context](https://www.biorxiv.org/content/10.1101/2022.10.13.512103v2.full)
 - 2026 - PLACO+ - Park - [A robust pleiotropy method with applications to lipid traits and to inflammatory bowel disease subtypes with sample overlap](https://www.cell.com/hgg-advances/fulltext/S2666-2477(25)00104-6)
 
+### Dimensionality reduction
+
+- 2019 - DeGAs - Tanigawa - [Components of genetic associations across 2,138 phenotypes in the UK Biobank highlight adipocyte biology](https://www.nature.com/articles/s41467-019-11953-9)
+- 2020 - Decomposition of GRSs - Chasman - [Pleiotropy-Based Decomposition of Genetic Risk Scores: Association and Interaction Analysis for Type 2 Diabetes and CAD](https://www.sciencedirect.com/science/article/pii/S0002929720300872?via%3Dihub)
+- 2023 - FactorGo - Zhang - [A scalable approach to characterize pleiotropy across thousands of human diseases and complex traits using GWAS summary statistics](https://www.sciencedirect.com/science/article/pii/S0002929723003531?via%3Dihub)
+- 2025 - GLEANR - Omdahl - [Sparse matrix factorization robust to sample sharing across GWASs reveals interpretable genetic components](https://www.sciencedirect.com/science/article/pii/S0002929725002733?via%3Dihub)
+- 2026 - Clorinn - Banerjee - [Convex approaches to isolate the shared and distinct genetic components of complex traits](https://academic.oup.com/bioinformatics/article/42/10/btag670/8815694#577786046)
+
 ### Imputation of phenotypes
 
 - 2016 - PHENIX - Dahl - [A multiple-phenotype imputation method for genetic studies](https://www.nature.com/articles/ng.3513)
